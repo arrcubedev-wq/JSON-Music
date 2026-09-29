@@ -1,5 +1,295 @@
 {
   "Songs": [
+     {
+        "Title": "Piki Piki Breakbeat",
+        "Artist": "Rian DTM",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "112838731740971",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 187.66489583333333,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Zumi Za Breakbeat",
+        "Artist": "Rian DTM",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "93010391784748",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 212.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Bounce & Pa Bkb",
+        "Artist": "TKR BREAKBEAT",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "91260702638002",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 195.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "DJ MIDDLE BREAKBEAT FULL BASS VIRAL TIKTOK 2026 🎶🎧",
+        "Artist": "Jeffry Pratama",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "87990249706685",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 145.82133333333334,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "DJ PARADISE BREAKBEAT REMIX SOUND OF STADIUM JAKARTA 2025",
+        "Artist": "DJ WinKy",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "137355539099039",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 224.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "AFTERSHOCK BREAKBEAT STADIUM🎧 , MELODY FULL BAS",
+        "Artist": "BREAKBEAT ID",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "110251990081054",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 310.6249583333333,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Plat Kt Mika Mika",
+        "Artist": "Rian DTM",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "134883949819759",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 194.88035416666668,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Aftershock (Breakbeat)",
+        "Artist": "Fariz Rizki",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "139356819098184",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 195.697125,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "WHERE DO YOU BEGIN",
+        "Artist": "Wanda Costanza",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "121975249326566",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 115.80420833333334,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Nu (Remix)",
+        "Artist": "Ezza Junior",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "87914680945031",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 116.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "You Don't Even Know Me (Breakbeat)",
+        "Artist": "Fariz Rizki",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "85496023475418",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 227.5625,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Breakbeat Nu",
+        "Artist": "Ezza Junior",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "113432944112799",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 194.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "DJ AFTERSHOCK BREAKBEAT REMIX BY NOKA AXL",
+        "Artist": "Tunes ID RMX",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "93018892009347",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 352.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "DJ APA ARTINYA CINTA BREAKBEAT REMIX BY HENDY ADJI X NINDY ANE",
+        "Artist": "Tunes ID RMX",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "119411313748025",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 183.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Taka Taka Breakbeat (Official Visualizer)",
+        "Artist": "Unknown Artist",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "104361028155390",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 210.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Dj One Small Breakbeat (Official Lyrics Video)",
+        "Artist": "Unknown Artist",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "102539722989204",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 218.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Kiss Kiss Bang x Whoopsie (Official Lyrics Video)",
+        "Artist": "Unknown Artist",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "72173577057807",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 193.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Don’t Jinx It Breakbeat (Official Visualizer)",
+        "Artist": "Unknown Artist",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "120238388999683",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 193.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "DJ PIKI PIKI WHERE YOU GO BREAKBEAT VIRAL TIKTOK TERBARU 2026",
+        "Artist": "Unknown Artist",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "99730318807689",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 185.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Plat Kt Mika Mika (Official Lyrics Video)",
+        "Artist": "Unknown Artist",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "100301591652150",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 194.9083125,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Beso Beso Ay Mamá (Official Lyrics Video)",
+        "Artist": "Unknown Artist",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "103243846596638",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 194.571625,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "DJ PIKI PIKI X ZUMI ZA X BOOM PA VIRAL TERBARU TIKTOK 2026",
+        "Artist": "Unknown Artist",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "90922232449858",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 188.70858333333334,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "DJ Hola Chiquitita X Dalinda X Danza Kuduro Stadium (Mashup Remix)",
+        "Artist": "Unknown Artist",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "84760253388178",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 197.97333333333333,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Piki Piki Breakbeat (Official Lyrics Video)",
+        "Artist": "Unknown Artist",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "94366080740620",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 187.68689583333332,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "DJ BIJLI PA PA PA X DJ BOOM PA BOOM PA THAILAND STYLE VIRAL TIKTOK 2026",
+        "Artist": "Unknown Artist",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "71982727354343",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 172.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Rian DTM - Bijli Pa Pa Pa Breakbeat (Official Lyrics Video)",
+        "Artist": "Rian DTM",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "113973879902019",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 186.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "BOOM PA BOOM PA X MELODI DJ DOTA VIRAL TIKTOK TERBARU 2026",
+        "Artist": "Unknown Artist",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "126988780239188",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 144.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "Rian DTM - ZUMI ZA BREAKBEAT (Official Lyrics Video)",
+        "Artist": "Rian DTM",
+        "Genre": "Pop / Dance Pop",
+        "SoundId": "86911272728060",
+        "ImageId": "rbxassetid://108545758953426",
+        "Duration": 209.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
+      {
+        "Title": "DJ BOOM PA BOOM PA THAILAND STYLE VIRAL TIKTOK 2026 ( Bounce & Pa )",
+        "Artist": "Unknown Artist",
+        "Genre": "DJ & Electronic Mix",
+        "SoundId": "120560403816638",
+        "ImageId": "rbxassetid://108545`758953426",
+        "Duration": 170.9935,
+        "SpeedBack": 0.5,
+        "Volume": 5
+      },
     {
       "Title": "Bulan Triana “Anak Kampung” (Thailand Edit) prod.0landrys!",
       "Artist": "0landrys",
